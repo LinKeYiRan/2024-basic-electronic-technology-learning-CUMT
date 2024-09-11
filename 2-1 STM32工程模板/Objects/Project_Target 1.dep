@@ -1,0 +1,17 @@
+Dependencies for Project 'Project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Start\startup_stm32f10x_md.s)(0x4D783CD2)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 527" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (.\Start\core_cm3.c)(0x4C0C587E)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+F (.\Start\core_cm3.h)(0x4D523B58)()
+F (.\Start\stm32f10x.h)(0x4D783CB4)()
+F (.\Start\system_stm32f10x.c)(0x4D783CB0)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (Start\stm32f10x.h)(0x4D783CB4)
+I (Start\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (Start\system_stm32f10x.h)(0x4D783CAA)
+F (.\Start\system_stm32f10x.h)(0x4D783CAA)()
+F (.\User\main.c)(0x66E14E7F)(--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\Start-I.\RTE\_Target_1-ID:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="527" -DSTM32F10X_MD-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Start\stm32f10x.h)(0x4D783CB4)
+I (.\Start\core_cm3.h)(0x4D523B58)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (.\Start\system_stm32f10x.h)(0x4D783CAA)
